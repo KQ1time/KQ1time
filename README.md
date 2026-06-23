@@ -3,7 +3,8 @@
 <h3 align="center">Welcome</h3>
 <h1>About me</h1>
 <h3>I enjoy code</h3>
-<p>OOP - started learning 01.01.2026</p>
+<p>OOP - 01.01.2026</p>
+<p>Machine learning - 23.06.2026</p>
 <br><br>
 
 - 👩‍💻 I learn Python;
