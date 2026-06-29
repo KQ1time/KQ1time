@@ -5,9 +5,10 @@
 <h3>I enjoy code</h3>
 <p>OOP - 01.01.2026</p>
 <p>Machine learning - 23.06.2026</p>
+<p>C++ - 29.06.2026</p>
 <br><br>
 
-- 👩‍💻 I learn Python;
+- 👩‍💻 I learn Python and C++;
 - 🌱 Python is my first programming language;
 - 😄 I speak: English, Russian.
 
